@@ -1,0 +1,6 @@
+{
+  "name": "PAGUEI!",
+  "description": "Sistema de pagamentos online em Angola com ativação em 2 minutos via BI, IBAN e Multicaixa Express, checkout rápido, links de pagamento, MCP, API e dashboard em tempo real com taxa única de 6,5%.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
